@@ -1,0 +1,60 @@
+.h1 { 
+
+    font-family:"Protest Guerrilla", sans-serif ;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p {
+    font-family: "Barlow Condensed", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  text-align:justify ;
+  align-items: center;
+  
+ 
+}
+.bloc{
+justify-content: center;
+text-align: center;
+}
+
+.h2{
+    text-align: right;
+    display: flex;
+    margin: auto;
+
+}
+
+.h3{
+    text-align: right;
+    display: flex;
+    margin: auto;
+    
+}
+
+.container{
+
+    border: 2px solid darkslategray;
+    justify-content: space-between;
+    justify-content: center;
+
+    border-image: auto;
+}
+
+
+
+.footer{
+    display: flex;
+justify-content: center;
+background-color: grey;
+margin: auto;
+text-align: center;
+
+}
+
+.clique{
+
+    justify-content: center;
+}
+
